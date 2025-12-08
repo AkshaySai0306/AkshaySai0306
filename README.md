@@ -75,4 +75,8 @@ I'm open to:
 
 ---
 
-*"Aviation-grade software isn't about being perfect—it's about being reliable when it matters most."*
+<div align="center">
+  
+"Aviation-grade software isn't about being perfect—it's about being reliable when it matters most."
+
+</div>
